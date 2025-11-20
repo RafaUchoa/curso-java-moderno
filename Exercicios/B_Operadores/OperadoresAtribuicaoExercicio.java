@@ -1,4 +1,4 @@
-package Exercicios.B_Operadores;
+//package Exercicios.B_Operadores;
 
 public class OperadoresAtribuicaoExercicio {
         
