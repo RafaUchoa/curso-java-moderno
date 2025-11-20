@@ -1,5 +1,3 @@
-//package Exercicios.B_Operadores;
-
 public class OperadoresAtribuicaoExercicio {
         
     public static void main(String[] args) {

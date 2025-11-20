@@ -1,5 +1,3 @@
-//package Exercicios.B_Operadores;
-
 public class PrecedenciaOperadoresAtribuicao {
 
     public static void main(String[] args){
