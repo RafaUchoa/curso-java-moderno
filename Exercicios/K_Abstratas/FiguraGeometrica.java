@@ -1,6 +1,7 @@
 package Exercicios.K_Abstratas;
 
 // Exercicio 181
-public class FiguraGeometrica {
-    
+public abstract class FiguraGeometrica {
+    public abstract void calcularArea();
+    public abstract void calcularPerimetro();
 }
