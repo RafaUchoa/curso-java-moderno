@@ -26,3 +26,7 @@ public class JavaFXMinhaAplicacao extends Application {
 //java --module-path "c:\java\javafx-sdk-22.0.1\lib" --add-modules javafx.controls Exercicios.T_JavaFX.JavaFXMinhaAplicacao
 // OU USAR A VARIAVE DE AMBIENTE:
 //java --module-path "%PATH_TO_FX%" --add-modules javafx.controls Exercicios.T_JavaFX.JavaFXMinhaAplicacao
+
+
+//Documentação JavaFx:
+//https://openjfx.io/javadoc/22/index.html
