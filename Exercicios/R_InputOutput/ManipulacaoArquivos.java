@@ -35,9 +35,10 @@ public class ManipulacaoArquivos {
 
     public static void main(String[] args) {
         ManipulacaoArquivos ma = new ManipulacaoArquivos();
+        String arq = "C:/Git/curso-java-moderno/Exercicios/R_InputOutput/ManipulacaoArquivo.txt";
         try{
-            ma.escreverArquivo("exercma.txt", "exercicio263");
-            String conteudo = ma.lerArquivo("exercma.txt");
+            ma.escreverArquivo(arq, "exercicio263");
+            String conteudo = ma.lerArquivo(arq);
             System.out.println("Conteúdo escrito: " + conteudo);
         }
         catch(IOException e){
