@@ -1,1 +1,3 @@
-CENSORED
+COLOQUE AQUI
+//Pegue no site: https://www.weatherapi.com/ e cole na primeira linha desse txt, remova essa linha de explicação
+esse arquivo deve ter somente a chave de API
